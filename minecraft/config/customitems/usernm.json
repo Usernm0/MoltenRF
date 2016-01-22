@@ -1,0 +1,68 @@
+{
+    "creativeTabs":[
+
+    ],
+    "blocks":[
+
+    ],
+    "items":[ 
+
+    ],
+    "foods":[
+
+    ], 
+    "pickaxes":[
+
+    ],
+    "axes":[
+
+    ],
+    "shovels":[
+
+    ],
+    "hoes":[
+
+    ],
+    "swords":[
+
+    ],
+    "helmets":[
+
+    ],
+    "chestplates":[
+
+    ],
+    "leggings":[
+
+    ],
+    "boots":[
+
+    ],        
+    "fluids":[
+        {
+            "name":"Molten Zinc",
+            "textureName": "molten_zinc",
+            "temperature": 200,
+            
+            "density": 2000,
+            "viscosity": 6000,
+            "lightLevel": 1.0,
+            "isGas": false,
+            "flowLength": 4
+        },
+        {
+            "name":"Molten Brass",
+            "textureName": "molten_brass",
+            "temperature": 200,
+            
+            "density": 2000,
+            "viscosity": 6000,
+            "lightLevel": 1.0,
+            "isGas": false,
+            "flowLength": 4
+        }
+    ],
+    "crops":[
+
+    ]
+}
